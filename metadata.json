@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Grid Generator",
+  "description": "Arrange passport photos onto 6x4 inch 300 DPI printable sheets with exact dimensions and cut guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
